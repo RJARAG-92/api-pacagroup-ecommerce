@@ -8,3 +8,5 @@
  - Envio de correos usando Sengrid 
  - Pruebas unitarias & cobertura de codigo
  - Implementación de patrones de Diseño CQRS, Options y Mediador
+ - objects.sql, script de la base de datos
+

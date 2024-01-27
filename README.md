@@ -1,5 +1,4 @@
 # api-pacagroup-ecommerce
- Arquitectura de Aplicaciones Empresariales con .NET 8
  La solución presenta las siguientes implementaciones:
  - Health Check 
  - Redis 

@@ -10,3 +10,9 @@
  - Implementación de patrones de Diseño CQRS, Options y Mediador
  - objects.sql, script de la base de datos
 
+
+## 👤 Autor
+
+**Ricardo Jara Gaspar**  
+Ingeniero de Software especializado en .NET y Arquitectura de Software  
+[GitHub](https://github.com/RJARAG-92) · [LinkedIn](https://www.linkedin.com/in/ricardo-jara-gaspar-b7a515265/) · 🇵🇪 Perú
